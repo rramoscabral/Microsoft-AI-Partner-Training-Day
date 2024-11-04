@@ -12,6 +12,7 @@ nav_order: 2
 
 To help you with the Workshop, there are answers to questions you may have to help you complete this workshop.
 
+<br/>
 
 ## Table of Contents
 {: .no_toc .text-delta }
@@ -19,6 +20,7 @@ To help you with the Workshop, there are answers to questions you may have to he
 1. TOC
 {:toc}
 
+<br/>
 
 ## I can't launch the workshop environment.
 

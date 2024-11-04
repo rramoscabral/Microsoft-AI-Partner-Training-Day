@@ -12,6 +12,7 @@ nav_order: 1
 
 To help you with the Workshop, there are answers to questions you may have to help you complete this workshop.
 
+<br/>
 
 ## Table of Contents
 {: .no_toc .text-delta }
