@@ -3,6 +3,7 @@ layout: default
 title: 'The Resources Tab'
 has_children: false
 parent: 'Workshop environment'
+nav_order: 2
 ---
 
 

@@ -3,6 +3,7 @@ layout: default
 title: 'The Navigation Pane'
 has_children: false
 parent: 'Workshop environment'
+nav_order: 1
 ---
 
 # The Navigation Pane
@@ -13,7 +14,7 @@ At the top right there is the Exit/Save button which has two options:
 
 ![alt text](./SkillableLabs001.png)
 
-    > Note: Being able to Save and then Resume a lab is really useful, especially in an Instructor led class as it allows the student to pause the clock while the instructor is teaching and then rapidly resume it when they need to actively work within it. <br> Note: the standard Save duration for a lab is 7 days.
+> Note: Being able to Save and then Resume a lab is really useful, especially in an Instructor led class as it allows the student to pause the clock while the instructor is teaching and then rapidly resume it when they need to actively work within it. <br> Note: the standard Save duration for a lab is 7 days.
 
 Underneath this are two buttons: ![alt text](./SkillableLabs002.png)
 

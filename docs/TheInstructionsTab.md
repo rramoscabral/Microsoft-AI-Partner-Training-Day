@@ -3,6 +3,7 @@ layout: default
 title: 'The Instructions Tab'
 has_children: false
 parent: 'Workshop environment'
+nav_order: 3
 ---
 
 # The Instructions Tab

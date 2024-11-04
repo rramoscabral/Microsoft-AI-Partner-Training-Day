@@ -3,6 +3,7 @@ layout: default
 title: 'Build and extend copilots with Copilot Studio (WRK530)'
 has_children: false
 parent: 'Track 3: Tech Overview: Microsoft Copilot & AI Stack | Berlin'
+grand_parent: 'Track 3: Tech Overview: Microsoft Copilot & AI Stack | Berlin'
 ---
 
 # Build and extend copilots with Copilot Studio 
