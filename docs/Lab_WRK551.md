@@ -40,7 +40,7 @@ You must clear the browser cache or open Workshop link in a ‘InPrivate Window�
 ![Broken Images](./WRK551_003.png)
 
 
-## I am getting an error when running **azd env refresh -e AITOUR######**.
+## I am getting an error when running 'azd env refresh -e AITOUR######'.
 
 If you receive the error message **ERROR: retrieving deployment: error retrieving state: retrieving deployment: 'AITOUR######': no ​​deployments found** this error occurs because there are still resources that are being deployed.
 
@@ -49,7 +49,7 @@ If you receive the error message **ERROR: retrieving deployment: error retrievin
 It is recommended that you wait for 5 minutes and try the command again. If the error message persists, they should wait another 5 minutes and try again.
 
 
-## I'm getting the error **'pgp: flag failure: No secret key'** when running the command to create GitHUB shares.
+## I'm getting the error 'pgp: flag failure: No secret key' when running the command to create GitHUB shares.
 
 You must create a GPG (GNU Privacy Guard) key in the terminal to be used with Git.
 
