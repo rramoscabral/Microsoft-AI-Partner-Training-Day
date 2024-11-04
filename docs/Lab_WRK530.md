@@ -15,8 +15,6 @@ To help you with the Workshop, there are answers to questions you may have to he
 ## Table of contents
 {: .no_toc .text-delta }
 
-
-1. TOC
 {:toc}
 
 <br/>
