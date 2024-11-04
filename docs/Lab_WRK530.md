@@ -16,6 +16,11 @@ To help you with the Workshop, there are answers to questions you may have to he
 {: .no_toc .text-delta }
 
 
+1. TOC
+{:toc}
+
+<br/>
+
 
 ## There is no environment created.
 You can use the default environment **AI Roadsho (default)**.
