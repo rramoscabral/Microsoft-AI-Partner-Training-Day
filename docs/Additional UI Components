@@ -1,0 +1,43 @@
+
+
+
+
+Additional UI Components
+Automated TypeText and Commands
+
+TypeText and Commands allow direct interaction with the Virtual Machine from the instruction page. Users can launch commands (via Shell or PowerShell) or inject text into the VM at the click of a button!
+
+Perform the actions below to see the different formats of commands and TypeText that may be experienced throughout the lab
+
+    Click the following command to run it and close notepad:
+
+    Stop-Process -force -processname notepad
+
+    Click here to reopen:
+
+    Re-Open the document.
+
+        These are Commands, and this example shows you the command (both in the instructions and the VM), and then runs it.
+
+    In the Notepad text document, put your cursor at the bottom of the list, then add the next city by clicking the following text: <city>
+
+        Notice that the city you added to the variable text box earlier has been included here!
+
+    Return to the bottom of the list. Add the set of cities listed below by clicking the TypeText icon oscxwrbn.jpg. Notice the PlainText label above the list, this can be customized to any label.
+
+    PlainTextTypeCopy
+    United States:
+    Miami, Florida
+    Seattle, Washington
+
+        Note: This does not allow for formatted text (such as bold/italic/colored/etc).
+
+Task Lists
+
+If a lab contains checkboxes it is very important to check them off as you go along as they not only track where you are personally, but this is how your user account will record the completion percentage of the lab.
+
+    Topic
+    Topic 2
+    Topic 3
+
+If you haven't already, check the boxes on this page. Notice that if you check a lower box, all the ones above it get checked for you! Similarly, if you uncheck a higher box, all the lower ones become unchecked.
