@@ -8,13 +8,16 @@ nav_order: 2
 ---
 
 # Build a Multi-tasking Assistant with Azure OpenAI 
+{: .no_toc }
 
 To help you with the Workshop, there are answers to questions you may have to help you complete this workshop.
 
 
-
-## Table of contents
+## Table of Contents
 {: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 
 ## I can't launch the workshop environment.
