@@ -12,6 +12,11 @@ nav_order: 2
 To help you with the Workshop, there are answers to questions you may have to help you complete this workshop.
 
 
+
+## Table of contents
+{: .no_toc .text-delta }
+
+
 ## I can't launch the workshop environment.
 
 ![Broken Images](./WRK551_001.png)
