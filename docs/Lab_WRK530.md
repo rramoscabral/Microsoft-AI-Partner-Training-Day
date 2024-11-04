@@ -8,12 +8,17 @@ nav_order: 1
 ---
 
 # Build and extend copilots with Copilot Studio 
+{: .no_toc }
 
 To help you with the Workshop, there are answers to questions you may have to help you complete this workshop.
 
 
-## Table of contents
-{:toc .text-delta }
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 
 
 <br/>
