@@ -3,7 +3,7 @@ layout: default
 title: 'Build a Multi-tasking Assistant with Azure OpenAI (WRK551)'
 has_children: false
 parent: 'Track 3: Tech Overview: Microsoft Copilot & AI Stack | Berlin'
-grand_parent: 'Track 3: Tech Overview: Microsoft Copilot & AI Stack | Berlin'
+grand_parent: 'Berlin'
 ---
 
 # Build a Multi-tasking Assistant with Azure OpenAI 
