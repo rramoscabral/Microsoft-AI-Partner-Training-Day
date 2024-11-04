@@ -11,14 +11,14 @@ This page provides a quick guide to the workshop environment that is provided by
 
 The screenshot below shows the components of the user interface we will review throughout this lab. Click the image to view it larger.
 
-![alt text](./SkillableEnvironment.png)
+![Broken Images](./SkillableEnvironment.png)
 
 <br>
 
 
 ## Network status
 
-![alt text](./SkillableNetwork.png)
+![Broken Images](./SkillableNetwork.png)
 
 View active incidents or upcoming maintenances in [Network status](https://status.skillable.com/).
 
@@ -28,7 +28,7 @@ View active incidents or upcoming maintenances in [Network status](https://statu
 
 ## Speed test
 
-![alt text](./SkillableSpeeTest.png)
+![Broken Images](./SkillableSpeeTest.png)
 
 If you are experiencing frequent disconnects or lag when controlling your machines, you may run a [spped test](https://www.skillable.com/customer-support/speed-test/). 
 

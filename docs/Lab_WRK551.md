@@ -13,12 +13,12 @@ To help you with the Workshop, there are answers to questions you may have to he
 
 ## I can't launch the workshop environment.
 
-![alt text](./WRK551_001.png)
+![Broken Images](./WRK551_001.png)
 
 You must clear the browser cache or open Workshop link in a ‘InPrivate Window’ (Edge) or ‘Private Window’ (Firefox).
 
 
-![alt text](./WRK551_002.png)
+![Broken Images](./WRK551_002.png)
 
 
 ## I don't find the option to create codespace on main.
@@ -26,14 +26,14 @@ You must clear the browser cache or open Workshop link in a ‘InPrivate Window�
 1. Click **codespaces**.
 2. Click the **+** button.
 
-![alt text](./WRK551_003.png)
+![Broken Images](./WRK551_003.png)
 
 
 ## I am getting an error when running **azd env refresh -e AITOUR######**.
 
 If you receive the error message **ERROR: retrieving deployment: error retrieving state: retrieving deployment: 'AITOUR######': no ​​deployments found** this error occurs because there are still resources that are being deployed.
 
-![alt text](./WRK551_004.png)
+![Broken Images](./WRK551_004.png)
 
 It is recommended that you wait for 5 minutes and try the command again. If the error message persists, they should wait another 5 minutes and try again.
 
@@ -69,7 +69,7 @@ You must create a GPG (GNU Privacy Guard) key in the terminal to be used with Gi
     ```bash
     git config --global user.signingkey <key>
     ```
-    ![alt text](./WRK551_005.png)
+    ![Broken Images](./WRK551_005.png)
 
 1.  To avoid getting the "Ioctl not suitable for device" error.
 
@@ -81,8 +81,8 @@ You must create a GPG (GNU Privacy Guard) key in the terminal to be used with Gi
 
 1. When confirming “Would you like to commit and push your local changes to start the configured CI pipeline?” You will be asked for the passphrase to unlock the OpenPGP secret key.
 
-    ![alt text](./WRK551_006.png)
+    ![Broken Images](./WRK551_006.png)
 
 1. Finally, the command is executed successfully.
 
-    ![alt text](./WRK551_007.png)
+    ![Broken Images](./WRK551_007.png)
